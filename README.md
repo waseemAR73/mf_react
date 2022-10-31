@@ -3,14 +3,21 @@
 
 
 To run the application
-cd home
+
+1. cd home
+
 npm install 
+
 npm start
 
-cd pdp
+2. cd pdp
+
 npm install
+
 npm start 
 
-cd store 
+3. cd store 
+
 npm install
-0npm start 
+
+npm start 
