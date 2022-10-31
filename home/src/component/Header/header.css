@@ -1,0 +1,10 @@
+.header {
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 15px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 90%;
+}
